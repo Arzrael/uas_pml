@@ -1,4 +1,4 @@
-# instagram
+# Foodies APP
 
 A new Flutter project.
 
